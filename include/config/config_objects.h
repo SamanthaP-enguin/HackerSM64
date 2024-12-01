@@ -101,7 +101,7 @@
 /**
  * Allows the speed of a platform on a track to be controlled by standing near the front or back of it.
  */
-// #define CONTROLLABLE_PLATFORM_SPEED
+#define CONTROLLABLE_PLATFORM_SPEED //:3
 
 /*********************
  * -- CHAIN CHOMP --
@@ -128,4 +128,4 @@
 /**
  * The number of segments Wiggler has, not including the head. Vanilla is 4.
  */
-#define WIGGLER_NUM_SEGMENTS     4
+#define WIGGLER_NUM_SEGMENTS     10 //hehe

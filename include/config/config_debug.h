@@ -78,7 +78,7 @@
 /**
  * Removes the limit on FPS.
  */
-// #define UNLOCK_FPS
+#define UNLOCK_FPS //teehee
 
 /**
  * Includes vanilla debug functionality.
